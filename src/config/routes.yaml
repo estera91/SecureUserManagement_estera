@@ -1,0 +1,3 @@
+secure_user_management_estera:
+    resource: "@SecureUserManagement_estera/Controller/"
+    type: annotation
