@@ -1,0 +1,18 @@
+{
+    "name": "blackcat/secure-user-management_estera",
+    "description": "Component for creating and managind roles and permissions for symfony. Is responsable for action of login and logout",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Blackcat\\SecureUserManagementEstera\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "estera91",
+            "email": "estera.bulkiewicz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
